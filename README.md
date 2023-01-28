@@ -180,6 +180,7 @@
 
 ### U
 - UDP: User Datagram Protocol (IETF RFC 768)
+- UEFI: Unified Extensible Firmware Interface
 - USB: Universal Serial Bus 
 - UNIX: UNiplexed Information Computing System
 
