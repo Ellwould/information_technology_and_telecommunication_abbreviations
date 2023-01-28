@@ -63,17 +63,17 @@
 
 ### I
 - IANA: Internet Assigned Numbers Authority (A international body that oversees the worlds allocation of IP addresses, allocation of autonomous system number, DNS root zone management and preforms other functions)
-- IEEE: Institute of Electrical and Electronics Engineers (A International Standards Body)
+- IEEE: Institute of Electrical and Electronics Engineers (A international standards body)
 - IEN: Internet Experiment Note (Pre TCP/IP protocols modeled after IETF RFCs) (IETF RFC 766)
-- IETF: Internet Engineering Task Force (A International Standards Body)
+- IETF: Internet Engineering Task Force (A international standards body)
 - ICMP: Internet Control Message Protocol (IETF RFC 792)
 - IPsec: Internet Protocol Security
 - IPv4: Internet Protocol version 4 (IETF RFC 791)
 - IPv6: Internet Protocol version 6 (IETF RFC 1883)
 - ISDN: Integrated Services Digital Network
-- ISO: International Organization for Standardization (A International Standards Body)
-- ITU: International Telecommunication Union (A International Standards Body)
-- ITU-T: ITU Telecommunication Standardization Sector (A Sector/Branch of the International Telecommunication Union)
+- ISO: International Organization for Standardization (A international standards body)
+- ITU: International Telecommunication Union (A international standards body)
+- ITU-T: ITU Telecommunication Standardization Sector (A sector/branch of the International Telecommunication Union)
 
 <br>
 
@@ -97,7 +97,7 @@
 ### N
 - NAT: Network Address Translation (IETF RFC 1631)
 - nftables: netfilter tables
-- NICC: Network Interoperability Consultative Committee (A United Kingdom Standards Body)
+- NICC: Network Interoperability Consultative Committee (A United Kingdom standards body)
 
 <br>
 
@@ -113,7 +113,7 @@
 - PPP: Point-to-Point Protocol (IETF RFC 1134)
 - PPPoA: Point-to-Point Protocol over ATM (IETF RFC 2364)
 - PPPoE: Point-to-Point Protocol over Ethernet (IETF RFC 2516)
-- PHP: Personal Home Page (Programing Language)
+- PHP: Personal Home Page (programing language)
 
 <br>
 
