@@ -51,7 +51,7 @@
 
 ### G
 - G.fast: fast access to subscriber terminals (ITU-T G.9700)
-- GNU: Gnu's Not Unix
+- GNU: Gnu's Not UNIX
 - GPON: Gigabit Passive Optical Network (ITU-T G.984)
 - GUI: Graphical User Interface
 
