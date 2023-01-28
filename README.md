@@ -130,7 +130,7 @@
 <br>
 
 ### R
-- RFC: Request For Comments (Open standards released by the Internet Engineering Task Force)
+- RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
 - RSA: Rivest–Shamir–Adleman
