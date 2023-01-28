@@ -99,6 +99,7 @@
 - NAT: Network Address Translation (IETF RFC 1631)
 - nftables: netfilter tables
 - NICC: Network Interoperability Consultative Committee (A United Kingdom standards body)
+- NRO: Number Resource Organization (Regional Internet Registrys informally liaise via the Number Resource Organization)
 
 <br>
 
@@ -124,6 +125,7 @@
 
 ### R
 - RFC: Request For Comments (Open standards released by the Internet Engineering Task Force)
+- RIR: Regional Internet Registry (There are five in total: AFRINIC, ARIN, APNIC, LACNIC and RIPE NCC)
 - RSA: Rivest–Shamir–Adleman
 - RTP: Real-time Transport Protocol (IETF RFC 1889)
 
