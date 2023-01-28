@@ -118,6 +118,7 @@
 - NAT: Network Address Translation (IETF RFC 1631)
 - NDP: Neighbor Discovery Protocol (IETF RFC 1970)
 - nftables: netfilter tables
+- NTP: Network Time Protocol (IETF RFC 958)
 - NICC: Network Interoperability Consultative Committee (A United Kingdom standards body)
 - NoSQL Database: No Structured Query Language Database (Examples are CouchDB, Redis and GraphQL)
 - NRO: Number Resource Organization (Regional Internet Registrys informally liaise via the Number Resource Organization)
