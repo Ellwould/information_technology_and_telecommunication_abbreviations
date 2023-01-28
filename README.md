@@ -119,6 +119,7 @@
 - NDP: Neighbor Discovery Protocol (IETF RFC 1970)
 - nftables: netfilter tables
 - NICC: Network Interoperability Consultative Committee (A United Kingdom standards body)
+- NoSQL Database: No Structured Query Language Database (Examples are CouchDB, Redis and GraphQL)
 - NRO: Number Resource Organization (Regional Internet Registrys informally liaise via the Number Resource Organization)
 
 <br>
@@ -153,6 +154,7 @@
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
 - RSA: Rivest–Shamir–Adleman
+- RTSP: Real Time Streaming Protocol (IETF RFC 2326)
 - RTP: Real-time Transport Protocol (IETF RFC 1889)
 
 <br>
