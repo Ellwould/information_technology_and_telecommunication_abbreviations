@@ -2,7 +2,7 @@
 
 <br>
 
-## If applicable the description also contains the first standard associated with the abbreviation in brackets and/or a short note for more description in brackets.
+## If applicable the description also contains a short note for more description in brackets and/or the first standard (from any standards body) in brackets or instead of a first standard a IETF informational RFC in brackets.
 
 <br>
 
@@ -61,6 +61,8 @@
 <br>
 
 ### H
+- HTML: Hyper Text Markup Language
+- HTTP: Hypertext Transfer Protocol
 
 <br>
 
@@ -168,6 +170,7 @@
 <br>
 
 ### W
+- W3C: World Wide Web Consortium (A international standards body)
 
 <br>
 
