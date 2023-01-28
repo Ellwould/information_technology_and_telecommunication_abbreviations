@@ -45,8 +45,8 @@
 
 ### I
 - IPsec: Internet Protocol Security
-- IPv4: Internet Protocol version 4
-- IPv6: Internet Protocol version 6
+- IPv4: Internet Protocol version 4 (IETF RFC 791)
+- IPv6: Internet Protocol version 6 (IETF RFC 1883)
 
 <br>
 
