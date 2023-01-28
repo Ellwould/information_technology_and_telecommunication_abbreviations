@@ -12,26 +12,32 @@
 - ANSI: American National Standards Institute (A United States of America Standards Body)
 - ARP: Address Resolution Protocol (IETF RFC 826)
 - ARPANET: Advanced Research Projects Agency Network
+- ASCII: American Standard Code for Information Interchange
+- ATM: Asynchronous Transfer Mode
 
 <br>
 
 ### B
 - BASH: Bourne Again SHell
+- BIOS: Basic Input Output System
 - BSD: Berkeley Software Distribution
 
 <br>
 
 ### C
+- CLI: Command Line Interface
 
 <br>
 
 ### D
+- DNS: Domain Name System (IETF RFC 882)
 - DSL: Digital Subscriber Line
 
 <br>
 
 ### E
 - ECDSA: Elliptic Curve Digital Signature Algorithm (ISO 14888-3)
+- EFI: Extensible Firmware Interface
 
 <br>
 
@@ -46,7 +52,8 @@
 ### G
 - G.fast: fast access to subscriber terminals (ITU-T G.9700)
 - GNU: Gnu's Not Unix
-- GPON: Gigabit Passive Optical Network (ITU-T G.984) 
+- GPON: Gigabit Passive Optical Network (ITU-T G.984)
+- GUI: Graphical User Interface
 
 <br>
 
@@ -55,6 +62,7 @@
 <br>
 
 ### I
+- IANA: Internet Assigned Numbers Authority (A international body that oversees the worlds allocation of IP addresses, allocation of autonomous system number, DNS root zone management and preforms other functions)
 - IEEE: Institute of Electrical and Electronics Engineers (A International Standards Body)
 - IEN: Internet Experiment Note (Pre TCP/IP protocols modeled after IETF RFCs) (IETF RFC 766)
 - IETF: Internet Engineering Task Force (A International Standards Body)
@@ -62,6 +70,7 @@
 - IPsec: Internet Protocol Security
 - IPv4: Internet Protocol version 4 (IETF RFC 791)
 - IPv6: Internet Protocol version 6 (IETF RFC 1883)
+- ISDN: Integrated Services Digital Network
 - ISO: International Organization for Standardization (A International Standards Body)
 - ITU: International Telecommunication Union (A International Standards Body)
 - ITU-T: ITU Telecommunication Standardization Sector (A Sector/Branch of the International Telecommunication Union)
@@ -99,9 +108,11 @@
 
 ### P
 - PBX: Private Branch eXchange
-- PPP: Point
-- PPPoA:
-- PPPoE:
+- PCI: Peripheral Component Interconnect
+- PDF: Portable Digital File (ISO 32000)
+- PPP: Point-to-Point Protocol (IETF RFC 1134)
+- PPPoA: Point-to-Point Protocol over ATM (IETF RFC 2364)
+- PPPoE: Point-to-Point Protocol over Ethernet (IETF RFC 2516)
 - PHP: Personal Home Page (Programing Language)
 
 <br>
@@ -135,6 +146,8 @@
 
 ### U
 - UDP: User Datagram Protocol (IETF RFC 768)
+- USB: Universal Serial Bus 
+- UNIX: UNiplexed Information Computing System
 
 <br>
 
