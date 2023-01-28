@@ -9,6 +9,9 @@
 ### A
 - ADSL: Asymmetric digital subscriber line
 - AES: Advanced Encryption Standard
+- AFRINIC: African Network Information Center (Regional Internet Registry for Africa)
+- APNIC: Asia-Pacific Network Information Centre (Regional Internet Registry for East Asia, Oceania, South Asia, and Southeast Asia)
+- ARIN: American Registry for Internet Numbers (Regional Internet Registry for Antarctica, Canada, parts of the Caribbean, and the United States of America
 - ANSI: American National Standards Institute (A United States of America standards body)
 - ARP: Address Resolution Protocol (IETF RFC 826)
 - ARPANET: Advanced Research Projects Agency Network
@@ -87,6 +90,7 @@
 <br>
 
 ### L
+- LACNIC: Latin America and Caribbean Network Information Centre (Regional Internet Registry for most of the Caribbean, Mexico and all of South America)
 
 <br>
 
@@ -125,7 +129,8 @@
 
 ### R
 - RFC: Request For Comments (Open standards released by the Internet Engineering Task Force)
-- RIR: Regional Internet Registry (There are five in total: AFRINIC, ARIN, APNIC, LACNIC and RIPE NCC)
+- RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
+- RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
 - RSA: Rivest–Shamir–Adleman
 - RTP: Real-time Transport Protocol (IETF RFC 1889)
 
