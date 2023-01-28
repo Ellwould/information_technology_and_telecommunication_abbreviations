@@ -26,7 +26,7 @@
 ### B
 - BASH: Bourne Again SHell
 - BGP: Border Gateway Protocol (IETF RFC 1105)
-- BIOS: Basic Input Output System
+- BIOS: Basic Input/Output System
 - BSD: Berkeley Software Distribution
 
 <br>
