@@ -63,6 +63,7 @@
 
 ### I
 - IANA: Internet Assigned Numbers Authority (A international body that oversees the worlds allocation of IP addresses, allocation of autonomous system number, DNS root zone management and preforms other functions)
+- ICANN: Internet Corporation for Assigned Names and Numbers (multistakeholder group and nonprofit organization)
 - IEEE: Institute of Electrical and Electronics Engineers (A international standards body)
 - IEN: Internet Experiment Note (Pre TCP/IP protocols modeled after IETF RFCs) (IETF RFC 766)
 - IETF: Internet Engineering Task Force (A international standards body)
