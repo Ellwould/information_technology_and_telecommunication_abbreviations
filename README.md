@@ -2,7 +2,7 @@
 
 <br>
 
-## If applicable the description also contains a short note for more description in brackets and/or the first standard (from any standards body) in brackets or instead of a first standard a IETF informational RFC in brackets.
+## If applicable the description also contains a short note for more description in brackets and/or the first standard (from any standards body) in brackets or instead of a first standard a IETF informational/best practise RFC in brackets.
 
 <br>
 
@@ -15,6 +15,8 @@
 - ANSI: American National Standards Institute (A United States of America standards body)
 - ARP: Address Resolution Protocol (IETF RFC 826)
 - ARPANET: Advanced Research Projects Agency Network
+- AS: Autonomous System (IETF RFC 1930)
+- ASN: Autonomous System Number
 - ASCII: American Standard Code for Information Interchange
 - ATM: Asynchronous Transfer Mode
 
@@ -22,6 +24,7 @@
 
 ### B
 - BASH: Bourne Again SHell
+- BGP: Border Gateway Protocol (IETF RFC 1105)
 - BIOS: Basic Input Output System
 - BSD: Berkeley Software Distribution
 
@@ -37,6 +40,7 @@
 ### D
 - DES: Data Encryption Standard (Insecure to use in 2023)
 - DNS: Domain Name System (IETF RFC 882)
+- DOS: Disk Operating System (Disk based operating system)
 - DSL: Digital Subscriber Line
 
 <br>
@@ -66,6 +70,7 @@
 <br>
 
 ### H
+- Hex: Hexadecimal (base 16 number system - 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
 - HTML: Hypertext Markup Language
 - HTTP: Hypertext Transfer Protocol (IETF RFC 1945)
 
@@ -116,6 +121,7 @@
 <br>
 
 ### O
+- OEM: Orignal Equipment Manufacture
 - OS: Operating System
 
 <br>
