@@ -11,7 +11,7 @@
 - AES: Advanced Encryption Standard
 - AFRINIC: African Network Information Center (Regional Internet Registry for Africa)
 - APNIC: Asia-Pacific Network Information Centre (Regional Internet Registry for East Asia, Oceania, South Asia, and Southeast Asia)
-- ARIN: American Registry for Internet Numbers (Regional Internet Registry for Antarctica, Canada, parts of the Caribbean, and the United States of America
+- ARIN: American Registry for Internet Numbers (Regional Internet Registry for Antarctica, Canada, parts of the Caribbean, and the United States of America)
 - ANSI: American National Standards Institute (A United States of America standards body)
 - ARP: Address Resolution Protocol (IETF RFC 826)
 - ARPANET: Advanced Research Projects Agency Network
