@@ -131,7 +131,7 @@
 <br>
 
 ### R
-- RDBMS: Relational Database Management System (Example: MySQL, MariaDB and PostgreSQL)
+- RDBMS: Relational Database Management System (Examples are MySQL, MariaDB and PostgreSQL)
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
@@ -167,7 +167,7 @@
 - VDSL: Very high-speed Digital Subscriber Line
 - VoIP: Voice over Internet Protocol
 - VNC: Virtual Network Computing
-- VPN: Virtual Private Network
+- VPN: Virtual Private Network (Examples are OpenVPN and Cisco's IPsec)
 
 <br>
 
