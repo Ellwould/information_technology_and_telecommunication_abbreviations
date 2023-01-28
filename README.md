@@ -33,6 +33,7 @@
 <br>
 
 ### D
+- DES: Data Encryption Standard (Insecure to use in 2023)
 - DNS: Domain Name System (IETF RFC 882)
 - DSL: Digital Subscriber Line
 
@@ -41,6 +42,7 @@
 ### E
 - ECDSA: Elliptic Curve Digital Signature Algorithm (ISO 14888-3)
 - EFI: Extensible Firmware Interface
+- EULA: End User Licence Agreement (A type of proprietary licence used for software)
 
 <br>
 
@@ -55,14 +57,15 @@
 ### G
 - G.fast: fast access to subscriber terminals (ITU-T G.9700)
 - GNU: Gnu's Not UNIX
+- GPL: General Public License (A GNU open source license used for software)
 - GPON: Gigabit Passive Optical Network (ITU-T G.984)
 - GUI: Graphical User Interface
 
 <br>
 
 ### H
-- HTML: Hyper Text Markup Language
-- HTTP: Hypertext Transfer Protocol
+- HTML: Hypertext Markup Language
+- HTTP: Hypertext Transfer Protocol (IETF RFC 1945)
 
 <br>
 
@@ -153,7 +156,7 @@
 ### T
 - TCP: Transmission Control Protocol (IETF RFC 793)
 - TFTP: Trivial File Transfer Protocol (IETF IEN 133)
-- TLS: Transport Layer Security (IETF RFC 2543)
+- TLS: Transport Layer Security (TLS 1 and TLS 1.1 are insecure to use in 2023) (IETF RFC 2543)
 
 <br>
 
