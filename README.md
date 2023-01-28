@@ -30,6 +30,7 @@
 ### C
 - cd: change directory (UNIX, UNIX like and Windows command)
 - CLI: Command Line Interface
+- cp: copy (UNIX and UNIX like command)
 
 <br>
 
@@ -97,7 +98,7 @@
 
 ### L
 - LACNIC: Latin America and Caribbean Network Information Centre (Regional Internet Registry for most of the Caribbean, Mexico and all of South America)
-- ls: list (UNIX, UNIX like and Windows OS command)
+- ls: list (UNIX, UNIX like and Windows command)
 
 <br>
 
@@ -120,6 +121,7 @@
 <br>
 
 ### P
+- pfSense: packet filter Sense (A firewall/router software based on FreeBSD OS)
 - PBX: Private Branch eXchange
 - PCI: Peripheral Component Interconnect
 - PDF: Portable Digital File (ISO 32000)
@@ -150,8 +152,8 @@
 - SIP: Session Initiation Protocol (IETF RFC 2543)
 - SQL: Structured Query Language
 - SSH: Secure Shell
-- su: substitute user (UNIX and UNIX like OS command)
-- sudo: su 'do' / superuser do (original meaning) (UNIX and UNIX like OS command)
+- su: substitute user (UNIX and UNIX like command)
+- sudo: su 'do' / superuser do (original meaning) (UNIX and UNIX like command)
 
 <br>
 
