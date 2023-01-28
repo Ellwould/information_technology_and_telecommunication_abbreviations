@@ -118,6 +118,7 @@
 - PBX: Private Branch eXchange
 - PCI: Peripheral Component Interconnect
 - PDF: Portable Digital File (ISO 32000)
+- PGP: Pretty Good Privacy (IETF RFC 1991)
 - PHP: Personal Home Page (programing language)
 - PPP: Point-to-Point Protocol (IETF RFC 1134)
 - PPPoA: Point-to-Point Protocol over ATM (IETF RFC 2364)
@@ -130,6 +131,7 @@
 <br>
 
 ### R
+- RDBMS: Relational Database Management System (Example: MySQL, MariaDB and PostgreSQL)
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
