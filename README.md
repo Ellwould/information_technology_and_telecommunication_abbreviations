@@ -2,7 +2,7 @@
 
 <br>
 
-## If applicable the description also contains the first standard associated with the abbreviation in brackets or a short note for more description in brackets.
+## If applicable the description also contains the first standard associated with the abbreviation in brackets and/or a short note for more description in brackets.
 
 <br>
 
