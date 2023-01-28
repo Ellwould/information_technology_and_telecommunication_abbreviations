@@ -120,6 +120,7 @@
 - PDF: Portable Digital File (ISO 32000)
 - PGP: Pretty Good Privacy (IETF RFC 1991)
 - PHP: Personal Home Page (programing language)
+- PoE: Power over Ethernet (IEEE 802.3af)
 - PPP: Point-to-Point Protocol (IETF RFC 1134)
 - PPPoA: Point-to-Point Protocol over ATM (IETF RFC 2364)
 - PPPoE: Point-to-Point Protocol over Ethernet (IETF RFC 2516)
