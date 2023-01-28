@@ -2,7 +2,7 @@
 
 <br>
 
-## If applicable the description also contains a short note for more description in brackets and/or the first standard (from any standards body) in brackets or instead of a first standard a IETF informational/best practise RFC in brackets.
+## If applicable the description also contains a short note for more description in brackets and/or the first standard (from any standards body) in brackets or instead of a first standard a IETF informational/memo/best practise RFC in brackets.
 
 <br>
 
@@ -49,6 +49,7 @@
 - ECDSA: Elliptic Curve Digital Signature Algorithm (ISO 14888-3)
 - EFI: Extensible Firmware Interface
 - EULA: End User Licence Agreement (A type of proprietary licence used for software)
+- exe: executable (A Windows OS binary file that has the file extension .exe)
 
 <br>
 
@@ -73,6 +74,7 @@
 - Hex: Hexadecimal (base 16 number system - 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
 - HTML: Hypertext Markup Language
 - HTTP: Hypertext Transfer Protocol (IETF RFC 1945)
+- HTTPS: Hypertext Transfer Protocol Secure (IETF RFC 2818)
 
 <br>
 
@@ -114,6 +116,7 @@
 
 ### N
 - NAT: Network Address Translation (IETF RFC 1631)
+- NDP: Neighbor Discovery Protocol (IETF RFC 1970)
 - nftables: netfilter tables
 - NICC: Network Interoperability Consultative Committee (A United Kingdom standards body)
 - NRO: Number Resource Organization (Regional Internet Registrys informally liaise via the Number Resource Organization)
@@ -158,6 +161,7 @@
 - SIP: Session Initiation Protocol (IETF RFC 2543)
 - SQL: Structured Query Language
 - SSH: Secure Shell
+- SSL: Secure Sockets Layer (Insecure to use in 2023) (IETF RFC 6101)
 - su: substitute user (UNIX and UNIX like command)
 - sudo: su 'do' / superuser do (original meaning) (UNIX and UNIX like command)
 
