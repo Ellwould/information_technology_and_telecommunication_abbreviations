@@ -146,7 +146,7 @@
 - SQL: Structured Query Language
 - SSH: Secure Shell
 - su: substitute user
-- sudo: superuser do (original meaning) / su 'do'
+- sudo: su 'do' / superuser do (original meaning)
 
 <br>
 
