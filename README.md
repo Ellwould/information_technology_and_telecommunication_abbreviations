@@ -2,7 +2,8 @@
 
 <br>
 
-## If applicable the description also contains a short note for more description in brackets and/or the first standard (from any standards body) in brackets or instead of a first standard a IETF informational/memo/best practise RFC in brackets.
+## If applicable the description also contains a short note of more infomation in brackets and/or the first instance of standardisation from any standards body in brackets.
+## If no standard can be found a IETF informational/memo/best practise RFC in brackets is used instead.
 
 <br>
 
