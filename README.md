@@ -28,6 +28,7 @@
 <br>
 
 ### C
+- cd: change directory (UNIX, UNIX like and Windows command)
 - CLI: Command Line Interface
 
 <br>
@@ -96,6 +97,7 @@
 
 ### L
 - LACNIC: Latin America and Caribbean Network Information Centre (Regional Internet Registry for most of the Caribbean, Mexico and all of South America)
+- ls: list (UNIX, UNIX like and Windows OS command)
 
 <br>
 
@@ -148,8 +150,8 @@
 - SIP: Session Initiation Protocol (IETF RFC 2543)
 - SQL: Structured Query Language
 - SSH: Secure Shell
-- su: substitute user
-- sudo: su 'do' / superuser do (original meaning)
+- su: substitute user (UNIX and UNIX like OS command)
+- sudo: su 'do' / superuser do (original meaning) (UNIX and UNIX like OS command)
 
 <br>
 
