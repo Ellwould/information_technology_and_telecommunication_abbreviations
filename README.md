@@ -9,7 +9,7 @@
 ### A
 - ADSL: Asymmetric digital subscriber line
 - AES: Advanced Encryption Standard
-- ANSI: American National Standards Institute (A United States of America Standards Body)
+- ANSI: American National Standards Institute (A United States of America standards body)
 - ARP: Address Resolution Protocol (IETF RFC 826)
 - ARPANET: Advanced Research Projects Agency Network
 - ASCII: American Standard Code for Information Interchange
