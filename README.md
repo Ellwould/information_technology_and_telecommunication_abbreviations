@@ -35,6 +35,7 @@
 - cd: change directory (UNIX, UNIX like and Windows command)
 - CLI: Command Line Interface
 - cp: copy (UNIX and UNIX like command)
+- CSP: Content-Security-Policy (W3C WD-CSP-20111129)
 
 <br>
 
@@ -73,6 +74,7 @@
 
 ### H
 - Hex: Hexadecimal (base 16 number system - 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
+- HSTS: HTTP Strict Transport Security (IETF RFC 6797)
 - HTML: Hypertext Markup Language
 - HTTP: Hypertext Transfer Protocol (IETF RFC 1945)
 - HTTPS: Hypertext Transfer Protocol Secure (IETF RFC 2818)
@@ -111,6 +113,7 @@
 <br>
 
 ### M
+- MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
 - Modem: modulator-demodulator
 
 <br>
@@ -127,6 +130,7 @@
 <br>
 
 ### O
+- OCSP: Online Certificate Status Protocol (IETF RFC 2560)
 - OEM: Orignal Equipment Manufacture
 - OS: Operating System
 
@@ -196,10 +200,14 @@
 
 ### W
 - W3C: World Wide Web Consortium (A international standards body)
+- WHATWG: Web Hypertext Application Technology Working Group (A international standards body)
+- www: world wide web
 
 <br>
 
 ### X
+
+XML: Extensible Markup Language (W3C WD-xml-961114)
 
 <br>
 
