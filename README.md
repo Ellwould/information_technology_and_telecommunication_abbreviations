@@ -137,10 +137,11 @@
 <br>
 
 ### P
-- pfSense: packet filter Sense (A firewall/router software based on FreeBSD OS)
 - PBX: Private Branch eXchange
 - PCI: Peripheral Component Interconnect
 - PDF: Portable Digital File (ISO 32000)
+- PEM: Privacy Enhanced Mail (IETF RFC 1113)
+- pfSense: packet filter Sense (A firewall/router software based on FreeBSD OS)
 - PGP: Pretty Good Privacy (IETF RFC 1991)
 - PHP: Personal Home Page (programing language)
 - PoE: Power over Ethernet (IEEE 802.3af)
