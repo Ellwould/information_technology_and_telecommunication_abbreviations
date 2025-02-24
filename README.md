@@ -47,6 +47,7 @@
 
 ### D
 - DES: Data Encryption Standard (Insecure to use in 2023)
+- dir: directory
 - DNS: Domain Name System (IETF RFC 882)
 - DOS: Disk Operating System (Disk based operating system)
 - DSL: Digital Subscriber Line
@@ -69,6 +70,7 @@
 ### F
 - FHS: Filesystem Hierarchy Standard
 - FQDN: Fully Qualified Domain Name
+- fstab: file systems table (UNIX and UNIX like configuration file /etc/fstab)
 - FTP: File Transport Protocol (IETF RFC 114)
 - FTTH: Fibre To The Home
 - FTTP: Fibre To The Premises
@@ -96,11 +98,13 @@
 
 ### I
 - IANA: Internet Assigned Numbers Authority (A international body that oversees the worlds allocation of IP addresses, allocation of autonomous system number, DNS root zone management and preforms other functions)
+- IAX: Inter-Asterisk eXchange (VoIP protocol native to Asterisk)
 - ICANN: Internet Corporation for Assigned Names and Numbers (multistakeholder group and nonprofit organization)
 - IEEE: Institute of Electrical and Electronics Engineers (A international standards body)
 - IEN: Internet Experiment Note (Pre TCP/IP protocols modeled after IETF RFCs) (IETF RFC 766)
 - IETF: Internet Engineering Task Force (A international standards body)
 - ICMP: Internet Control Message Protocol (IETF RFC 792)
+- inode: index node
 - IPsec: Internet Protocol Security
 - IPv4: Internet Protocol version 4 (IETF RFC 791)
 - IPv6: Internet Protocol version 6 (IETF RFC 1883)
@@ -129,6 +133,8 @@
 <br>
 
 ### M
+- man (UNIX and UNIX like context): manual (manual pages)
+- MAN (Networking context): Metropolitan Area Network
 - MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
 - mkdir: make directory (UNIX and UNIX like command)
 - mknod: make node (UNIX and UNIX like command)
@@ -155,6 +161,7 @@
 <br>
 
 ### P
+- PAN: Personal Area Network
 - PAT: Port Address Translation
 - PBX: Private Branch eXchange
 - PCI: Peripheral Component Interconnect
@@ -163,6 +170,7 @@
 - pfSense: packet filter Sense (A firewall/router software based on FreeBSD OS)
 - PGP: Pretty Good Privacy (IETF RFC 1991)
 - PHP: Personal Home Page (programing language)
+- PID: Process Identifier
 - PoE: Power over Ethernet (IEEE 802.3af)
 - POSIX: Portable Operating System Interface (IEEE 1003.1-1988)
 - PPP: Point-to-Point Protocol (IETF RFC 1134)
@@ -176,7 +184,9 @@
 <br>
 
 ### R
+- RAID: Redundant Array of Independent Disks (Somtimes named Redundant Array of Inexpensive Disks)
 - RAM: Random Access Memory
+- rc: run command (UNIX and UNIX like run command files have a file extension of .rc)
 - RDBMS: Relational Database Management System (Examples are MySQL, MariaDB and PostgreSQL)
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
@@ -192,6 +202,7 @@
 <br>
 
 ### S
+- SATA: Serial Advanced Technology Attachment (Somtimes named Serial ATA)
 - SCSI: Small Computer System Interface
 - SIP: Session Initiation Protocol (IETF RFC 2543)
 - SQL: Structured Query Language
@@ -221,6 +232,7 @@
 
 ### V
 - VDSL: Very high-speed Digital Subscriber Line
+- veth: virtual ethernet (GNU/Linux virtual Ethernet devices)
 - VoIP: Voice over Internet Protocol
 - VNC: Virtual Network Computing
 - VPN: Virtual Private Network (Examples are OpenVPN and Cisco's IPsec)
@@ -229,6 +241,7 @@
 
 ### W
 - W3C: World Wide Web Consortium (A international standards body)
+- WAN: Wide Area Network
 - WHATWG: Web Hypertext Application Technology Working Group (A international standards body)
 - www: world wide web
 
