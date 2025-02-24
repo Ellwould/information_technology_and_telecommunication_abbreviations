@@ -31,6 +31,7 @@
 - BIOS: Basic Input/Output System
 - Bin: Binary (UNIX and UNIX like directory /bin is used for binary files)
 - BSD: Berkeley Software Distribution
+- Btrfs: B-tree filesystem
 
 <br>
 
@@ -70,12 +71,15 @@
 <br>
 
 ### F
+- FAT: File Allocation Table
+- FFS: Fast File System
 - FHS: Filesystem Hierarchy Standard
 - FQDN: Fully Qualified Domain Name
 - fstab: file systems table (UNIX and UNIX like configuration file /etc/fstab)
 - FTP: File Transport Protocol (IETF RFC 114)
 - FTTH: Fibre To The Home
 - FTTP: Fibre To The Premises
+- FUSE: File System in User Space
 
 <br>
 
@@ -146,6 +150,7 @@
 - MBR: Master Boot Record (A partition table)
 - MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
 - mkdir: make directory (UNIX and UNIX like command)
+- mkfs: make file system (UNIX and UNIX like command)
 - mknod: make node (UNIX and UNIX like command)
 - Modem: modulator-demodulator
 
@@ -241,6 +246,7 @@
 ### U
 - UDP: User Datagram Protocol (IETF RFC 768)
 - UEFI: Unified Extensible Firmware Interface
+- UFS: Unix File System
 - USB: Universal Serial Bus
 - UNIX: UNiplexed Information Computing System
 - UTS: UNIX Time-Sharing System
@@ -251,6 +257,7 @@
 ### V
 - VDSL: Very high-speed Digital Subscriber Line
 - veth: virtual ethernet (GNU/Linux virtual Ethernet devices)
+- VFS: Virtual File System
 - VLAN: Virtual Local Area Network
 - VoIP: Voice over Internet Protocol
 - VNC: Virtual Network Computing
