@@ -98,13 +98,14 @@
 
 ### I
 - IANA: Internet Assigned Numbers Authority (A international body that oversees the worlds allocation of IP addresses, allocation of autonomous system number, DNS root zone management and preforms other functions)
-- IAX: Inter-Asterisk eXchange (VoIP protocol native to Asterisk)
+- IAX2: Inter-Asterisk eXchange Version 2 (IETF RFC 5456)
 - ICANN: Internet Corporation for Assigned Names and Numbers (multistakeholder group and nonprofit organization)
 - IEEE: Institute of Electrical and Electronics Engineers (A international standards body)
 - IEN: Internet Experiment Note (Pre TCP/IP protocols modeled after IETF RFCs) (IETF RFC 766)
 - IETF: Internet Engineering Task Force (A international standards body)
 - ICMP: Internet Control Message Protocol (IETF RFC 792)
 - inode: index node
+- IPC: Interprocess Communication
 - IPsec: Internet Protocol Security
 - IPv4: Internet Protocol version 4 (IETF RFC 791)
 - IPv6: Internet Protocol version 6 (IETF RFC 1883)
@@ -134,6 +135,7 @@
 <br>
 
 ### M
+- MAC: Media Access Control
 - man (UNIX and UNIX like context): manual (manual pages)
 - MAN (Networking context): Metropolitan Area Network
 - MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
@@ -165,9 +167,11 @@
 - PAN: Personal Area Network
 - PAT: Port Address Translation
 - PBX: Private Branch eXchange
+- PC: Personal Computer
 - PCI: Peripheral Component Interconnect
 - PDF: Portable Digital File (ISO 32000)
 - PEM: Privacy Enhanced Mail (IETF RFC 1113)
+- pf: packet filter (A UNIX like firewall)
 - pfSense: packet filter Sense (A firewall/router software based on FreeBSD OS)
 - PGP: Pretty Good Privacy (IETF RFC 1991)
 - PHP: Personal Home Page (programing language)
@@ -190,6 +194,7 @@
 - RAM: Random Access Memory
 - rc: run command (UNIX and UNIX like run command files have a file extension of .rc)
 - RDBMS: Relational Database Management System (Examples are MySQL, MariaDB and PostgreSQL)
+- RDP: Remote Desktop Protocol (proprietary protocol)
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
@@ -226,7 +231,7 @@
 ### U
 - UDP: User Datagram Protocol (IETF RFC 768)
 - UEFI: Unified Extensible Firmware Interface
-- USB: Universal Serial Bus 
+- USB: Universal Serial Bus
 - UNIX: UNiplexed Information Computing System
 - UTS: UNIX Time-Sharing System
 - UUID: Universally Unique Identifier
