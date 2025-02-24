@@ -11,6 +11,7 @@
 - ADSL: Asymmetric digital subscriber line
 - AES: Advanced Encryption Standard
 - AFRINIC: African Network Information Center (Regional Internet Registry for Africa)
+- ALSA: Advanced Linux Sound Architecture
 - API: Application Programming Interface
 - APNIC: Asia-Pacific Network Information Centre (Regional Internet Registry for East Asia, Oceania, South Asia, and Southeast Asia)
 - ARIN: American Registry for Internet Numbers (Regional Internet Registry for Antarctica, Canada, parts of the Caribbean, and the United States of America)
@@ -160,6 +161,7 @@
 - OCSP: Online Certificate Status Protocol (IETF RFC 2560)
 - OEM: Orignal Equipment Manufacture
 - OS: Operating System
+- OSS: Open Sound System
 
 <br>
 
