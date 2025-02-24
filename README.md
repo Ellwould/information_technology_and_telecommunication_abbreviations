@@ -61,7 +61,7 @@
 - etc: et cetera (UNIX and UNIX like directory /etc is used for configuration files)
 - EULA: End User Licence Agreement (A type of proprietary licence used for software)
 - exe: executable (A Windows OS binary file that has the file extension .exe)
-- ext: extended file system (first version)
+- ext: extended file system (First version)
 - ext2: second extended file system
 - ext3: third extended file system
 - ext4: fourth extended file system
@@ -84,11 +84,13 @@
 - GPG: GNU Privacy Guard (Somtimes named GnuPG)
 - GPL: General Public License (A GNU open source license used for software)
 - GPON: Gigabit Passive Optical Network (ITU-T G.984)
+- GPT: Globally Unique Identifier Partition Table (A partition table)
 - GUI: Graphical User Interface
 
 <br>
 
 ### H
+- HDD: Hard Disk Drive
 - Hex: Hexadecimal (base 16 number system - 0,1,2,3,4,5,6,7,8,9,A,B,C,D,E,F)
 - HSTS: HTTP Strict Transport Security (IETF RFC 6797)
 - HTML: Hypertext Markup Language
@@ -131,14 +133,16 @@
 - Linux: Combination of the creaters name "Linus" and the operating system "UNIX" (Linux is an open source Kernal)
 - ls: list (UNIX, UNIX like and Windows command)
 - LSB: Linux Standard Base
+- lsblk: list block devices (UNIX and UNIX like command)
 - LVM: Logical Volume Manager (GNU/Linux volume management)
 
 <br>
 
 ### M
 - MAC: Media Access Control
-- man (UNIX and UNIX like context): manual (manual pages)
+- man (UNIX and UNIX like context): manual (Manual pages)
 - MAN (Networking context): Metropolitan Area Network
+- MBR: Master Boot Record (A partition table)
 - MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
 - mkdir: make directory (UNIX and UNIX like command)
 - mknod: make node (UNIX and UNIX like command)
@@ -165,8 +169,9 @@
 
 <br>
 
-### P
+### P 
 - PAN: Personal Area Network
+- parted: partition editor
 - PAT: Port Address Translation
 - PBX: Private Branch eXchange
 - PC: Personal Computer
@@ -176,7 +181,7 @@
 - pf: packet filter (A UNIX like firewall)
 - pfSense: packet filter Sense (A firewall/router software based on FreeBSD OS)
 - PGP: Pretty Good Privacy (IETF RFC 1991)
-- PHP: Personal Home Page (programing language)
+- PHP: Personal Home Page (A programing language)
 - PID: Process Identifier
 - PoE: Power over Ethernet (IEEE 802.3af)
 - POSIX: Portable Operating System Interface (IEEE 1003.1-1988)
@@ -196,7 +201,7 @@
 - RAM: Random Access Memory
 - rc: run command (UNIX and UNIX like run command files have a file extension of .rc)
 - RDBMS: Relational Database Management System (Examples are MySQL, MariaDB and PostgreSQL)
-- RDP: Remote Desktop Protocol (proprietary protocol)
+- RDP: Remote Desktop Protocol (A proprietary protocol)
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
@@ -211,14 +216,16 @@
 <br>
 
 ### S
+- SAS: Serial Attached SCSI
 - SATA: Serial Advanced Technology Attachment (Somtimes named Serial ATA)
 - SCSI: Small Computer System Interface
 - SIP: Session Initiation Protocol (IETF RFC 2543)
 - SQL: Structured Query Language
+- SSD: Solid-State Drive (Somtimes named Solid-State Disk)
 - SSH: Secure Shell
 - SSL: Secure Sockets Layer (Insecure to use in 2023) (IETF RFC 6101)
 - su: substitute user (UNIX and UNIX like command)
-- sudo: su 'do' / superuser do (original meaning) (UNIX and UNIX like command)
+- sudo: su 'do' / superuser do (The original meaning) (UNIX and UNIX like command)
 
 <br>
 
@@ -270,4 +277,4 @@ XML: Extensible Markup Language (W3C WD-xml-961114)
 
 ### Z
 
-ZFS: Zettabyte File System (orignal meaning)
+ZFS: Zettabyte File System (The orignal meaning)
