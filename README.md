@@ -27,6 +27,7 @@
 - BASH: Bourne Again SHell
 - BGP: Border Gateway Protocol (IETF RFC 1105)
 - BIOS: Basic Input/Output System
+- Bin: Binary
 - BSD: Berkeley Software Distribution
 
 <br>
@@ -52,10 +53,15 @@
 - EFI: Extensible Firmware Interface
 - EULA: End User Licence Agreement (A type of proprietary licence used for software)
 - exe: executable (A Windows OS binary file that has the file extension .exe)
+- ext: extended file system (first version)
+- ext2: second extended file system
+- ext3: third extended file system
+- ext4: fourth extended file system
 
 <br>
 
 ### F
+- FHS: Filesystem Hierarchy Standard
 - FQDN: Fully Qualified Domain Name
 - FTP: File Transport Protocol (IETF RFC 114)
 - FTTH: Fibre To The Home
@@ -111,12 +117,14 @@
 - LACNIC: Latin America and Caribbean Network Information Centre (Regional Internet Registry for most of the Caribbean, Mexico and all of South America)
 - Linux: Combination of the creaters name "Linus" and the operating system "UNIX" (Linux is an open source Kernal)
 - ls: list (UNIX, UNIX like and Windows command)
+- LSB: Linux Standard Base
 - LVM: Logical Volume Manager (GNU/Linux volume management)
 
 <br>
 
 ### M
 - MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
+- mkdir: Make Directory (UNIX and UNIX like command)
 - Modem: modulator-demodulator
 
 <br>
@@ -164,6 +172,7 @@
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
+- rm: remove (UNIX and UNIX like command)
 - RSA: Rivest–Shamir–Adleman
 - RTSP: Real Time Streaming Protocol (IETF RFC 2326)
 - RTP: Real-time Transport Protocol (IETF RFC 1889)
@@ -224,3 +233,5 @@ XML: Extensible Markup Language (W3C WD-xml-961114)
 <br>
 
 ### Z
+
+ZFS: Zettabyte File System (orignal meaning)
