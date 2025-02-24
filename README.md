@@ -66,6 +66,7 @@
 ### G
 - G.fast: fast access to subscriber terminals (ITU-T G.9700)
 - GNU: Gnu's Not UNIX
+- GPG: GNU Privacy Guard (Somtimes named GnuPG)
 - GPL: General Public License (A GNU open source license used for software)
 - GPON: Gigabit Passive Optical Network (ITU-T G.984)
 - GUI: Graphical User Interface
@@ -108,7 +109,9 @@
 
 ### L
 - LACNIC: Latin America and Caribbean Network Information Centre (Regional Internet Registry for most of the Caribbean, Mexico and all of South America)
+- Linux: Combination of the creaters name "Linus" and the operating system "UNIX" (Linux is an open source Kernal)
 - ls: list (UNIX, UNIX like and Windows command)
+- LVM: Logical Volume Manager (GNU/Linux volume management)
 
 <br>
 
@@ -137,6 +140,7 @@
 <br>
 
 ### P
+- PAT: Port Address Translation
 - PBX: Private Branch eXchange
 - PCI: Peripheral Component Interconnect
 - PDF: Portable Digital File (ISO 32000)
@@ -167,6 +171,7 @@
 <br>
 
 ### S
+- SCSI: Small Computer System Interface
 - SIP: Session Initiation Protocol (IETF RFC 2543)
 - SQL: Structured Query Language
 - SSH: Secure Shell
@@ -188,6 +193,8 @@
 - UEFI: Unified Extensible Firmware Interface
 - USB: Universal Serial Bus 
 - UNIX: UNiplexed Information Computing System
+- UTS: UNIX Time-Sharing System
+- UUID: Universally Unique Identifier
 
 <br>
 
