@@ -39,6 +39,7 @@
 - cgroups: control groups
 - chmode: change mode (UNIX and UNIX like command)
 - chown: change owner (UNIX and UNIX like command)
+- CHS: cylinder-head-sector
 - CLI: Command Line Interface
 - cp: copy (UNIX and UNIX like command)
 - CPU: Central Processing Unit
