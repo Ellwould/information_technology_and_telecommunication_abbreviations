@@ -11,6 +11,7 @@
 - ADSL: Asymmetric digital subscriber line
 - AES: Advanced Encryption Standard
 - AFRINIC: African Network Information Center (Regional Internet Registry for Africa)
+- API: Application Programming Interface
 - APNIC: Asia-Pacific Network Information Centre (Regional Internet Registry for East Asia, Oceania, South Asia, and Southeast Asia)
 - ARIN: American Registry for Internet Numbers (Regional Internet Registry for Antarctica, Canada, parts of the Caribbean, and the United States of America)
 - ANSI: American National Standards Institute (A United States of America standards body)
@@ -27,15 +28,19 @@
 - BASH: Bourne Again SHell
 - BGP: Border Gateway Protocol (IETF RFC 1105)
 - BIOS: Basic Input/Output System
-- Bin: Binary
+- Bin: Binary (UNIX and UNIX like directory /bin is used for binary files)
 - BSD: Berkeley Software Distribution
 
 <br>
 
 ### C
 - cd: change directory (UNIX, UNIX like and Windows command)
+- cgroups: control groups
+- chmode: change mode (UNIX and UNIX like command)
+- chown: change owner (UNIX and UNIX like command)
 - CLI: Command Line Interface
 - cp: copy (UNIX and UNIX like command)
+- CPU: Central Processing Unit
 - CSP: Content-Security-Policy (W3C WD-CSP-20111129)
 
 <br>
@@ -51,6 +56,7 @@
 ### E
 - ECDSA: Elliptic Curve Digital Signature Algorithm (ISO 14888-3)
 - EFI: Extensible Firmware Interface
+- etc: et cetera (UNIX and UNIX like directory /etc is used for configuration files)
 - EULA: End User Licence Agreement (A type of proprietary licence used for software)
 - exe: executable (A Windows OS binary file that has the file extension .exe)
 - ext: extended file system (first version)
@@ -124,7 +130,8 @@
 
 ### M
 - MIME: Multipurpose Internet Mail Extensions (IETF RFC 1341)
-- mkdir: Make Directory (UNIX and UNIX like command)
+- mkdir: make directory (UNIX and UNIX like command)
+- mknod: make node (UNIX and UNIX like command)
 - Modem: modulator-demodulator
 
 <br>
@@ -157,6 +164,7 @@
 - PGP: Pretty Good Privacy (IETF RFC 1991)
 - PHP: Personal Home Page (programing language)
 - PoE: Power over Ethernet (IEEE 802.3af)
+- POSIX: Portable Operating System Interface (IEEE 1003.1-1988)
 - PPP: Point-to-Point Protocol (IETF RFC 1134)
 - PPPoA: Point-to-Point Protocol over ATM (IETF RFC 2364)
 - PPPoE: Point-to-Point Protocol over Ethernet (IETF RFC 2516)
@@ -168,14 +176,18 @@
 <br>
 
 ### R
+- RAM: Random Access Memory
 - RDBMS: Relational Database Management System (Examples are MySQL, MariaDB and PostgreSQL)
 - RFC: Request For Comments (Open standards and notes released by the Internet Engineering Task Force)
 - RIPE NCC: Réseaux IP Européens Network Coordination Centre (Regional Internet Registry for Europe, the Middle East and parts of Central Asia)
 - RIR: Regional Internet Registry (There are five in total: AFRINIC, APNIC, ARIN, LACNIC and RIPE NCC)
 - rm: remove (UNIX and UNIX like command)
+- ro: read only
+- ROM: Read-Only Memory
 - RSA: Rivest–Shamir–Adleman
 - RTSP: Real Time Streaming Protocol (IETF RFC 2326)
 - RTP: Real-time Transport Protocol (IETF RFC 1889)
+- rw: read+write
 
 <br>
 
