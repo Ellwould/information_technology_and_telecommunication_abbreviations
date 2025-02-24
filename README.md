@@ -125,6 +125,7 @@
 
 ### L
 - LACNIC: Latin America and Caribbean Network Information Centre (Regional Internet Registry for most of the Caribbean, Mexico and all of South America)
+- LAN: Local Area Network
 - Linux: Combination of the creaters name "Linus" and the operating system "UNIX" (Linux is an open source Kernal)
 - ls: list (UNIX, UNIX like and Windows command)
 - LSB: Linux Standard Base
@@ -176,6 +177,7 @@
 - PPP: Point-to-Point Protocol (IETF RFC 1134)
 - PPPoA: Point-to-Point Protocol over ATM (IETF RFC 2364)
 - PPPoE: Point-to-Point Protocol over Ethernet (IETF RFC 2516)
+- ps: process status (UNIX and UNIX like command)
 
 <br>
 
@@ -214,6 +216,7 @@
 <br>
 
 ### T
+- top: table of processes (UNIX and UNIX like command)
 - TCP: Transmission Control Protocol (IETF RFC 793)
 - TFTP: Trivial File Transfer Protocol (IETF IEN 133)
 - TLS: Transport Layer Security (TLS 1 and TLS 1.1 are insecure to use in 2023) (IETF RFC 2543)
@@ -233,6 +236,7 @@
 ### V
 - VDSL: Very high-speed Digital Subscriber Line
 - veth: virtual ethernet (GNU/Linux virtual Ethernet devices)
+- VLAN: Virtual Local Area Network
 - VoIP: Voice over Internet Protocol
 - VNC: Virtual Network Computing
 - VPN: Virtual Private Network (Examples are OpenVPN and Cisco's IPsec)
